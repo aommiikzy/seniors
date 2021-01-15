@@ -51,7 +51,7 @@ class LoginScreen extends StatelessWidget {
                 ),
                 SizedBox(height: 40),
                 Text(
-                  'Enter everything quickly!!!',
+                  'Enter everything quickMARK',
                   textAlign: TextAlign.center,
                   style:
                   GoogleFonts.openSans(color: Colors.white, fontSize: 25),
